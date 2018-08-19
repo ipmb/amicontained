@@ -31,6 +31,8 @@ const (
 	RuntimeKubernetes = "kube"
 	// RuntimeGarden is the string for the garden runtime.
 	RuntimeGarden = "garden"
+	// RuntimePodman is the string for the podman runtime.
+	RuntimeGarden = "podman"
 
 	uint32Max = 4294967295
 )
